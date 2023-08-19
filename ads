@@ -14,4 +14,4 @@
 
 
 
-hostname = api.m.jd.com,clientaccess.10086.cn, wap.js.10086.cn
+hostname = api.m.jd.com, clientaccess.10086.cn, wap.js.10086.cn
