@@ -12,4 +12,4 @@
 
 
 
-hostname = m.jd.com
+hostname = api.m.jd.com
